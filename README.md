@@ -10,13 +10,13 @@ A sentiment analysis project using the Multinomial Naive Bayes algorithm to clas
 - Evaluation using accuracy and F1 score
 
 ## Contents
-- `Multinomial Naive Bayes.ipynb`: The main notebook for training and evaluating the model
+- `Multinomial_Naive_Bayes.ipynb`: The main notebook for training and evaluating the model
 - `requirements.txt`: Dependencies
-- `mnb_model.pkl/`: Trained model
+- `Multinomial_Naive_Bayes_Model.pkl/`: Trained model
 
 ## Setup Instructions
 On Google Colab:
-1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thegreatkeljb/Multinomial-Naive-Bayes-for-Sentiment-Analysis/blob/main/notebook.ipynb) or download the notebook and upload it to Google Colab.
+1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thegreatkeljb/Multinomial-Naive-Bayes-for-Sentiment-Analysis/blob/main/Multinomial_Naive_Bayes.ipynb) or download the notebook and upload it to Google Colab.
 2. Run all
 
 Locally:
