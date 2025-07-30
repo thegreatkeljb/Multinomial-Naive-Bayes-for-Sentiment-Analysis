@@ -6,7 +6,7 @@ A sentiment analysis project using the Multinomial Naive Bayes algorithm to clas
 
 - Text preprocessing (lowercasing, tokenization, removal of stop words, etc.)
 - Feature extraction using Bag-of-Words (CountVectorizer)
-- Training a classifier (e.g., Logistic Regression)
+- Training
 - Evaluation using accuracy and F1 score
 
 ## Contents
