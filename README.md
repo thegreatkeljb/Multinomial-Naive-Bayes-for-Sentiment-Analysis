@@ -4,10 +4,10 @@ A sentiment analysis project using the Multinomial Naive Bayes algorithm to clas
 
 ## Project Overview
 
-- Text preprocessing (lowercasing, tokenization, removal of stop words, etc.)
-- Feature extraction using Bag-of-Words (CountVectorizer)
+- Text preprocessing
+- Feature extraction
 - Training
-- Evaluation using accuracy and F1 score
+- Evaluation
 
 ## Contents
 - `Multinomial_Naive_Bayes.ipynb`: The main notebook for training and evaluating the model
